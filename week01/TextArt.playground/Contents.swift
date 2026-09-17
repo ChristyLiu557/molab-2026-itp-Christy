@@ -28,5 +28,4 @@ func makeDiamond(symbol: String, size: Int) {
     }
 }
 
-// Call the function.
 makeDiamond(symbol: "*", size: 5)
