@@ -12,8 +12,7 @@ Testing: [Add your actual results after saving a session and relaunching the app
 Test that multiple records remain after relaunching, continue Swift fundamentals, and keep previous homework documentation up to date.
 
 ## Questions
-- When should I use JSON files instead of AppStorage?
-- How could I add editing or deleting saved records?
+- so far no questions 
 
 ## Project
 [Week06 — Focus Bloom](REPLACE_WITH_YOUR_WEEK06_FOLDER_URL)
